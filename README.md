@@ -1,8 +1,8 @@
 # fax-forms
 
-https://fastauth.github.io/fax-forms/WellCare%20-%20DME%20(fax%20form).pdf
+[WellCare - DME (fax form)](https://fastauth.github.io/fax-forms/WellCare%20-%20DME%20(fax%20form).pdf)
 
-https://fastauth.github.io/fax-forms/WellCare%20-%20Ancillary%20Medicaid%20DME%20(fax%20form).pdf
+[WellCare - Ancillary Medicaid DME (fax form)](https://fastauth.github.io/fax-forms/WellCare%20-%20Ancillary%20Medicaid%20DME%20(fax%20form).pdf)
 
 https://fastauth.github.io/fax-forms/USDOL%20-%20DME%20(fax%20form).pdf
 
