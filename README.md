@@ -42,4 +42,7 @@
 
 [Ambetter - MHS Indiana (fax form)](https://fastauth.github.io/fax-forms/Ambetter%20-%20MHS%20Indiana%20(fax%20form).pdf)
 
+[Alliegiance (fax form)](https://fastauth.github.io/fax-forms/Allegiance%20(fax%20form).pdf)
+
+
 [Aetna Better Health - FL (fax form)](https://fastauth.github.io/fax-forms/Aetna%20Better%20Health%20-%20FL%20(fax%20form).pdf)
