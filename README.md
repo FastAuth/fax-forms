@@ -4,7 +4,7 @@
 
 [WellCare - Ancillary Medicaid DME (fax form)](https://fastauth.github.io/fax-forms/WellCare%20-%20Ancillary%20Medicaid%20DME%20(fax%20form).pdf)
 
-[Vivida Health (fax form)](https://fastauth.github.io/fax-forms/Vivida%20Ancillary%Health%20(fax%20form).pdf)
+[Vivida Health (fax form)](https://fastauth.github.io/fax-forms/Vivida%20Health%20(fax%20form).pdf)
 
 [USDOL - DME (fax form)](https://fastauth.github.io/fax-forms/USDOL%20-%20DME%20(fax%20form).pdf)
 
