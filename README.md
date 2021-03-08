@@ -4,6 +4,8 @@
 
 [WellCare - Ancillary Medicaid DME (fax form)](https://fastauth.github.io/fax-forms/WellCare%20-%20Ancillary%20Medicaid%20DME%20(fax%20form).pdf)
 
+[Vivida Health (fax form)](https://fastauth.github.io/fax-forms/Vivida%20Ancillary%Health%20(fax%20form).pdf)
+
 [USDOL - DME (fax form)](https://fastauth.github.io/fax-forms/USDOL%20-%20DME%20(fax%20form).pdf)
 
 [Simply Healthcare - Medicare (fax form)](https://fastauth.github.io/fax-forms/Simply%20Healthcare%20-%20Medicare%20(fax%20form).pdf)
@@ -43,6 +45,5 @@
 [Ambetter - MHS Indiana (fax form)](https://fastauth.github.io/fax-forms/Ambetter%20-%20MHS%20Indiana%20(fax%20form).pdf)
 
 [Alliegiance (fax form)](https://fastauth.github.io/fax-forms/Allegiance%20(fax%20form).pdf)
-
 
 [Aetna Better Health - FL (fax form)](https://fastauth.github.io/fax-forms/Aetna%20Better%20Health%20-%20FL%20(fax%20form).pdf)
